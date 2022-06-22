@@ -1,6 +1,5 @@
 # image-gallery
 이미지 갤러리 구현 데모
-https://tapioca715.github.io/image-gallery/
 
 ## 주요 내용
 1. figma를 이용한 wireframe 제작
